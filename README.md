@@ -59,7 +59,7 @@
 - 使用hive进行数据分析和简单加工
 - 使用Azkaban进行任务调度
 - 使用Spark进行模型并行计算，Sklearn进行特征工程和部分数据处理，XGBoost进行模型推理
-- 使用Django进行web端展示
+- 使用Django搭建前端服务器，进行web端展示
 
 详见下方流程图
 ![image](https://github.com/crazybruce-bowen/IntelliGEO/blob/master/assets/image/tech_pic.jpg)
