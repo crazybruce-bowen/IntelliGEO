@@ -8,7 +8,7 @@
 - 信息整合后的区县、城市级报告。以及商圈划分建议。
 
 效果如下
-![image](https://github.com/crazybruce-bowen/IntelliGEO/blob/master/assets/image/IG.jpg)
+![image](assets/image/IG.jpg)
 
 
 ## 数据类型
@@ -63,7 +63,7 @@
 - 使用Django搭建前端服务器，进行web端展示
 
 详见下方流程图
-![image](https://github.com/crazybruce-bowen/IntelliGEO/blob/master/assets/image/tech_pic.jpg)
+![image](assets/image/tech_pic.jpg)
 
 ## 我的角色
 - 项目提出者，方案、流程设计人
