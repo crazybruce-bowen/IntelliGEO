@@ -71,4 +71,5 @@
 - 模型算法负责人。带领团队编写预测算法、特征工程、校准等；构建模型pipeline，编写spark分发推理代码
 - 销量预测质量责任人
 
-
+## 备注
+- 由于项目商用性质，代码无法公开。欢迎联系[Bowen Li](https://crazybruce-bowen.github.io/)
